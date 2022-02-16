@@ -1,0 +1,17 @@
+#myCanvas{
+    border-style: ridge;
+    border-width: 15;
+    background: white;
+    border-color: grey;
+}
+body{
+    background-image: url("crayons.jpeg");
+    background-position: center;
+	background-size: cover;
+}
+h1{
+    color: red;
+}
+button{
+    background-color: green;
+}
